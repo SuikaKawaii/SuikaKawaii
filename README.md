@@ -10,7 +10,7 @@ Soy una persona enamorada de la programación, con muchas ganas de seguir aprend
 - ❗ Interesada en saber más de desarrollo Web Frontend y de AI
 - ⚡ Estaré subiendo mis trabajos realizados
 
-####***Bienvenidos y siéntanse comodos!!***
+***Bienvenidos y siéntanse comodos!!***
 
 
 ### **Contacto**
