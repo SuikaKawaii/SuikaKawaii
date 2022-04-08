@@ -13,4 +13,4 @@ Soy una persona enamorada de la programación, con muchas ganas de seguir aprend
 ### **Contacto**
 
 - [LinkedIn](https://www.linkedin.com/in/laura-berrio-developer)
--[Twitter](https://twitter.com/LauraBe31799613)
+- [Twitter](https://twitter.com/LauraBe31799613)
