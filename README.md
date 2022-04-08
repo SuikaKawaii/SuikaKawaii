@@ -5,9 +5,12 @@ Soy una persona enamorada de la programación, con muchas ganas de seguir aprend
  Mi frase representativa es "Nunca es tarde", nunca es tarde para estudiar, para emprender y cumplir nuestros sueños.
 ~~~
 
-- 🚀 Egresada de **Academia Geek** como Desarrolladora Frontend</li>
-- 📚 Estudiante de Tecnólogo Análisis y Desarrollo de Software (ADSI) </li>
-- ❗ Interesada en saber más de desarrollo Web Frontend y de AI</li>
+- 🚀 Egresada de **Academia Geek** como Desarrolladora Frontend
+- 📚 Estudiante de Tecnólogo Análisis y Desarrollo de Software (ADSI) 
+- ❗ Interesada en saber más de desarrollo Web Frontend y de AI
+- ⚡ Estaré subiendo mis trabajos realizados
+
+####***Bienvenidos y siéntanse comodos!!***
 
 
 ### **Contacto**
