@@ -6,7 +6,7 @@ Soy una persona enamorada de la programación, con muchas ganas de seguir aprend
 ~~~
 
 - 🚀 Egresada de **Academia Geek** como Desarrolladora Frontend
-- 📚 Estudiante de Tecnólogo Análisis y Desarrollo de Software (ADSI) 
+- 📚 Tecnólogo Análisis y Desarrollo de Software (ADSI) 
 - ❗ Interesada en saber más de desarrollo Web Frontend y de AI
 - ⚡ Habilidades:
   - JavaScript
